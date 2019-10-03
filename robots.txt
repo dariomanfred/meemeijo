@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://fohxahnuoy.chrisbuonocore.com/sitemap.xml
